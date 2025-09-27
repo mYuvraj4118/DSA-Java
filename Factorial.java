@@ -1,3 +1,5 @@
+// Calculates factorial of a number in java
+
 import java.util.*;
 
 public class Factorial {
