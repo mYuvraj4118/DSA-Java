@@ -54,6 +54,7 @@ If you find this repository useful, consider giving it a **⭐ Star**.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mYuvraj4118/DSA-Java/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/mYuvraj4118/DSA-Java/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mYuvraj4118/DSA-Java/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
@@ -63,4 +64,8 @@ If you find this repository useful, consider giving it a **⭐ Star**.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mYuvraj4118/DSA-Java/tree/master/0066-plus-one) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/mYuvraj4118/DSA-Java/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
