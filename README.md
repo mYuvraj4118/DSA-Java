@@ -54,6 +54,7 @@ If you find this repository useful, consider giving it a **⭐ Star**.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mYuvraj4118/DSA-Java/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mYuvraj4118/DSA-Java/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mYuvraj4118/DSA-Java/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/mYuvraj4118/DSA-Java/tree/master/0217-contains-duplicate) |
@@ -76,4 +77,8 @@ If you find this repository useful, consider giving it a **⭐ Star**.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mYuvraj4118/DSA-Java/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
