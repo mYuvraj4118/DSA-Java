@@ -57,6 +57,7 @@ If you find this repository useful, consider giving it a **⭐ Star**.
 | [0027-remove-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mYuvraj4118/DSA-Java/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mYuvraj4118/DSA-Java/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mYuvraj4118/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/mYuvraj4118/DSA-Java/tree/master/0704-binary-search) |
 ## Hash Table
@@ -76,9 +77,11 @@ If you find this repository useful, consider giving it a **⭐ Star**.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mYuvraj4118/DSA-Java/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
