@@ -58,6 +58,7 @@ If you find this repository useful, consider giving it a **⭐ Star**.
 | [0035-search-insert-position](https://github.com/mYuvraj4118/DSA-Java/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mYuvraj4118/DSA-Java/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/mYuvraj4118/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/mYuvraj4118/DSA-Java/tree/master/0704-binary-search) |
 ## Hash Table
@@ -84,4 +85,8 @@ If you find this repository useful, consider giving it a **⭐ Star**.
 | ------- |
 | [0027-remove-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/0088-merge-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
