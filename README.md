@@ -59,6 +59,7 @@ If you find this repository useful, consider giving it a **⭐ Star**.
 | [0066-plus-one](https://github.com/mYuvraj4118/DSA-Java/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mYuvraj4118/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/mYuvraj4118/DSA-Java/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/mYuvraj4118/DSA-Java/tree/master/0724-find-pivot-index) |
@@ -67,6 +68,7 @@ If you find this repository useful, consider giving it a **⭐ Star**.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mYuvraj4118/DSA-Java/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mYuvraj4118/DSA-Java/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
@@ -81,6 +83,7 @@ If you find this repository useful, consider giving it a **⭐ Star**.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mYuvraj4118/DSA-Java/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -96,4 +99,12 @@ If you find this repository useful, consider giving it a **⭐ Star**.
 | ------- |
 | [0724-find-pivot-index](https://github.com/mYuvraj4118/DSA-Java/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/1991-find-the-middle-index-in-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
