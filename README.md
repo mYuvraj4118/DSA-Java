@@ -61,6 +61,7 @@ If you find this repository useful, consider giving it a **⭐ Star**.
 | [0136-single-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mYuvraj4118/DSA-Java/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/mYuvraj4118/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/mYuvraj4118/DSA-Java/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/mYuvraj4118/DSA-Java/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/1991-find-the-middle-index-in-array) |
@@ -70,6 +71,7 @@ If you find this repository useful, consider giving it a **⭐ Star**.
 | [0001-two-sum](https://github.com/mYuvraj4118/DSA-Java/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mYuvraj4118/DSA-Java/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/mYuvraj4118/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +80,7 @@ If you find this repository useful, consider giving it a **⭐ Star**.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mYuvraj4118/DSA-Java/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/mYuvraj4118/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/mYuvraj4118/DSA-Java/tree/master/0704-binary-search) |
 ## Sorting
 |  |
@@ -85,11 +88,13 @@ If you find this repository useful, consider giving it a **⭐ Star**.
 | [0088-merge-sorted-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mYuvraj4118/DSA-Java/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/mYuvraj4118/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/mYuvraj4118/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
