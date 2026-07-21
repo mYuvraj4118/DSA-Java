@@ -34,12 +34,6 @@ This repository is maintained for personal learning and interview preparation. S
 
 ---
 
-## ⭐ Support
-
-If you find this repository useful, consider giving it a **⭐ Star**.
-
----
-
 <div align="center">
 
 ### Happy Coding! 🚀
