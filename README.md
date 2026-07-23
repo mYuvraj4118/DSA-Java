@@ -64,6 +64,7 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mYuvraj4118/DSA-Java/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/mYuvraj4118/DSA-Java/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/mYuvraj4118/DSA-Java/tree/master/0217-contains-duplicate) |
@@ -73,6 +74,7 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/mYuvraj4118/DSA-Java/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mYuvraj4118/DSA-Java/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0268-missing-number) |
@@ -120,5 +122,6 @@ This repository is maintained for personal learning and interview preparation. S
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mYuvraj4118/DSA-Java/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
