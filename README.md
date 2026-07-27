@@ -133,6 +133,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0020-valid-parentheses](https://github.com/mYuvraj4118/DSA-Java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/mYuvraj4118/DSA-Java/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -141,6 +142,7 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mYuvraj4118/DSA-Java/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/mYuvraj4118/DSA-Java/tree/master/1021-remove-outermost-parentheses) |
 ## Interactive
 |  |
 | ------- |
