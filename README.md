@@ -61,6 +61,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0724-find-pivot-index](https://github.com/mYuvraj4118/DSA-Java/tree/master/0724-find-pivot-index) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mYuvraj4118/DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1991-find-the-middle-index-in-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0441-arranging-coins](https://github.com/mYuvraj4118/DSA-Java/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/mYuvraj4118/DSA-Java/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mYuvraj4118/DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +107,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0349-intersection-of-two-arrays](https://github.com/mYuvraj4118/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mYuvraj4118/DSA-Java/tree/master/0389-find-the-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mYuvraj4118/DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
