@@ -58,6 +58,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0229-majority-element-ii](https://github.com/mYuvraj4118/DSA-Java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mYuvraj4118/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/mYuvraj4118/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/mYuvraj4118/DSA-Java/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/mYuvraj4118/DSA-Java/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/mYuvraj4118/DSA-Java/tree/master/0724-find-pivot-index) |
@@ -77,6 +78,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0268-missing-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mYuvraj4118/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mYuvraj4118/DSA-Java/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/mYuvraj4118/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/mYuvraj4118/DSA-Java/tree/master/0575-distribute-candies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mYuvraj4118/DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
@@ -134,6 +136,7 @@ This repository is maintained for personal learning and interview preparation. S
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/mYuvraj4118/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/mYuvraj4118/DSA-Java/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/1991-find-the-middle-index-in-array) |
 ## Divide and Conquer
