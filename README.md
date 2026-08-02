@@ -50,6 +50,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0001-two-sum](https://github.com/mYuvraj4118/DSA-Java/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mYuvraj4118/DSA-Java/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/mYuvraj4118/DSA-Java/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mYuvraj4118/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/mYuvraj4118/DSA-Java/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/0088-merge-sorted-array) |
@@ -73,6 +74,7 @@ This repository is maintained for personal learning and interview preparation. S
 | ------- |
 | [0001-two-sum](https://github.com/mYuvraj4118/DSA-Java/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mYuvraj4118/DSA-Java/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/mYuvraj4118/DSA-Java/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/mYuvraj4118/DSA-Java/tree/master/0217-contains-duplicate) |
@@ -111,6 +113,7 @@ This repository is maintained for personal learning and interview preparation. S
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mYuvraj4118/DSA-Java/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mYuvraj4118/DSA-Java/tree/master/0217-contains-duplicate) |
@@ -162,6 +165,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0013-roman-to-integer](https://github.com/mYuvraj4118/DSA-Java/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mYuvraj4118/DSA-Java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/mYuvraj4118/DSA-Java/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/mYuvraj4118/DSA-Java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/mYuvraj4118/DSA-Java/tree/master/0389-find-the-difference) |
