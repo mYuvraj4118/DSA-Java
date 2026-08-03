@@ -60,6 +60,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0169-majority-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mYuvraj4118/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mYuvraj4118/DSA-Java/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/mYuvraj4118/DSA-Java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mYuvraj4118/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mYuvraj4118/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
@@ -146,6 +147,7 @@ This repository is maintained for personal learning and interview preparation. S
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/mYuvraj4118/DSA-Java/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/mYuvraj4118/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/mYuvraj4118/DSA-Java/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/1991-find-the-middle-index-in-array) |
