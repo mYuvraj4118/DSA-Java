@@ -69,6 +69,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0575-distribute-candies](https://github.com/mYuvraj4118/DSA-Java/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/mYuvraj4118/DSA-Java/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/mYuvraj4118/DSA-Java/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/mYuvraj4118/DSA-Java/tree/master/0739-daily-temperatures) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mYuvraj4118/DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1991-find-the-middle-index-in-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -186,6 +187,7 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mYuvraj4118/DSA-Java/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/mYuvraj4118/DSA-Java/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/mYuvraj4118/DSA-Java/tree/master/1021-remove-outermost-parentheses) |
 ## Interactive
 |  |
@@ -216,4 +218,8 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mYuvraj4118/DSA-Java/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/mYuvraj4118/DSA-Java/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
