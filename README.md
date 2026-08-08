@@ -51,6 +51,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0014-longest-common-prefix](https://github.com/mYuvraj4118/DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mYuvraj4118/DSA-Java/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/mYuvraj4118/DSA-Java/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/mYuvraj4118/DSA-Java/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mYuvraj4118/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/mYuvraj4118/DSA-Java/tree/master/0066-plus-one) |
@@ -78,6 +79,7 @@ This repository is maintained for personal learning and interview preparation. S
 | ------- |
 | [0001-two-sum](https://github.com/mYuvraj4118/DSA-Java/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mYuvraj4118/DSA-Java/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/mYuvraj4118/DSA-Java/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/mYuvraj4118/DSA-Java/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/mYuvraj4118/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0169-majority-element) |
@@ -222,4 +224,8 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/mYuvraj4118/DSA-Java/tree/master/0739-daily-temperatures) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/mYuvraj4118/DSA-Java/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
