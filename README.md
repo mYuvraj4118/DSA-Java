@@ -102,6 +102,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0066-plus-one](https://github.com/mYuvraj4118/DSA-Java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mYuvraj4118/DSA-Java/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/mYuvraj4118/DSA-Java/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/mYuvraj4118/DSA-Java/tree/master/0441-arranging-coins) |
@@ -228,4 +229,12 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mYuvraj4118/DSA-Java/tree/master/0036-valid-sudoku) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mYuvraj4118/DSA-Java/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mYuvraj4118/DSA-Java/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
