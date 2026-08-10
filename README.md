@@ -101,6 +101,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0013-roman-to-integer](https://github.com/mYuvraj4118/DSA-Java/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mYuvraj4118/DSA-Java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mYuvraj4118/DSA-Java/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/mYuvraj4118/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/mYuvraj4118/DSA-Java/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0263-ugly-number) |
@@ -200,6 +201,7 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mYuvraj4118/DSA-Java/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/mYuvraj4118/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mYuvraj4118/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Heap (Priority Queue)
 |  |
@@ -237,4 +239,8 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mYuvraj4118/DSA-Java/tree/master/0258-add-digits) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mYuvraj4118/DSA-Java/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
