@@ -194,11 +194,13 @@ This repository is maintained for personal learning and interview preparation. S
 | [0344-reverse-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/mYuvraj4118/DSA-Java/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/mYuvraj4118/DSA-Java/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mYuvraj4118/DSA-Java/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0796-rotate-string) |
 ## Stack
 |  |
 | ------- |
