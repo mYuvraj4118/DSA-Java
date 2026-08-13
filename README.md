@@ -62,6 +62,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mYuvraj4118/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mYuvraj4118/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mYuvraj4118/DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mYuvraj4118/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mYuvraj4118/DSA-Java/tree/master/0229-majority-element-ii) |
@@ -116,6 +117,7 @@ This repository is maintained for personal learning and interview preparation. S
 | ------- |
 | [0035-search-insert-position](https://github.com/mYuvraj4118/DSA-Java/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mYuvraj4118/DSA-Java/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mYuvraj4118/DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mYuvraj4118/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/mYuvraj4118/DSA-Java/tree/master/0374-guess-number-higher-or-lower) |
@@ -148,6 +150,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0042-trapping-rain-water](https://github.com/mYuvraj4118/DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mYuvraj4118/DSA-Java/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mYuvraj4118/DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mYuvraj4118/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
