@@ -48,6 +48,7 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mYuvraj4118/DSA-Java/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/mYuvraj4118/DSA-Java/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mYuvraj4118/DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0027-remove-element) |
@@ -139,6 +140,7 @@ This repository is maintained for personal learning and interview preparation. S
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mYuvraj4118/DSA-Java/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -255,5 +257,6 @@ This repository is maintained for personal learning and interview preparation. S
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mYuvraj4118/DSA-Java/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/mYuvraj4118/DSA-Java/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
