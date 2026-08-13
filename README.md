@@ -110,6 +110,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0263-ugly-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/mYuvraj4118/DSA-Java/tree/master/0441-arranging-coins) |
+| [2235-add-two-integers](https://github.com/mYuvraj4118/DSA-Java/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
