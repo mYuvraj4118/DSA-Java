@@ -53,6 +53,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0027-remove-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mYuvraj4118/DSA-Java/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/mYuvraj4118/DSA-Java/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/mYuvraj4118/DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/mYuvraj4118/DSA-Java/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mYuvraj4118/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/mYuvraj4118/DSA-Java/tree/master/0066-plus-one) |
@@ -141,6 +142,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/mYuvraj4118/DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mYuvraj4118/DSA-Java/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0202-happy-number) |
@@ -195,6 +197,7 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mYuvraj4118/DSA-Java/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/mYuvraj4118/DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/mYuvraj4118/DSA-Java/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/mYuvraj4118/DSA-Java/tree/master/1021-remove-outermost-parentheses) |
 ## Interactive
@@ -204,6 +207,7 @@ This repository is maintained for personal learning and interview preparation. S
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mYuvraj4118/DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mYuvraj4118/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/mYuvraj4118/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mYuvraj4118/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -230,6 +234,7 @@ This repository is maintained for personal learning and interview preparation. S
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mYuvraj4118/DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/mYuvraj4118/DSA-Java/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
