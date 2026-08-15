@@ -72,6 +72,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0349-intersection-of-two-arrays](https://github.com/mYuvraj4118/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/mYuvraj4118/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/mYuvraj4118/DSA-Java/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/mYuvraj4118/DSA-Java/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/mYuvraj4118/DSA-Java/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/mYuvraj4118/DSA-Java/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/mYuvraj4118/DSA-Java/tree/master/0739-daily-temperatures) |
@@ -265,5 +266,6 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mYuvraj4118/DSA-Java/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/mYuvraj4118/DSA-Java/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/mYuvraj4118/DSA-Java/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
