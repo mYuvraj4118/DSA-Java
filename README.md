@@ -108,6 +108,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0069-sqrtx](https://github.com/mYuvraj4118/DSA-Java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mYuvraj4118/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/mYuvraj4118/DSA-Java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mYuvraj4118/DSA-Java/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0268-missing-number) |
@@ -162,6 +163,7 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/mYuvraj4118/DSA-Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mYuvraj4118/DSA-Java/tree/master/0389-find-the-difference) |
 ## Prefix Sum
@@ -268,4 +270,8 @@ This repository is maintained for personal learning and interview preparation. S
 | [0011-container-with-most-water](https://github.com/mYuvraj4118/DSA-Java/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/mYuvraj4118/DSA-Java/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/mYuvraj4118/DSA-Java/tree/master/0680-valid-palindrome-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/mYuvraj4118/DSA-Java/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
