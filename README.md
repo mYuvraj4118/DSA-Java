@@ -113,6 +113,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0258-add-digits](https://github.com/mYuvraj4118/DSA-Java/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/mYuvraj4118/DSA-Java/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/mYuvraj4118/DSA-Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mYuvraj4118/DSA-Java/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/mYuvraj4118/DSA-Java/tree/master/0441-arranging-coins) |
@@ -280,4 +281,24 @@ This repository is maintained for personal learning and interview preparation. S
 | [0231-power-of-two](https://github.com/mYuvraj4118/DSA-Java/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mYuvraj4118/DSA-Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mYuvraj4118/DSA-Java/tree/master/0342-power-of-four) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mYuvraj4118/DSA-Java/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mYuvraj4118/DSA-Java/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mYuvraj4118/DSA-Java/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mYuvraj4118/DSA-Java/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mYuvraj4118/DSA-Java/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
