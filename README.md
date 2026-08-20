@@ -105,6 +105,7 @@ This repository is maintained for personal learning and interview preparation. S
 | ------- |
 | [0009-palindrome-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mYuvraj4118/DSA-Java/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/mYuvraj4118/DSA-Java/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/mYuvraj4118/DSA-Java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mYuvraj4118/DSA-Java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mYuvraj4118/DSA-Java/tree/master/0070-climbing-stairs) |
@@ -166,6 +167,7 @@ This repository is maintained for personal learning and interview preparation. S
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mYuvraj4118/DSA-Java/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/mYuvraj4118/DSA-Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0268-missing-number) |
