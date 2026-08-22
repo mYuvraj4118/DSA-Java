@@ -64,6 +64,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0136-single-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mYuvraj4118/DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/mYuvraj4118/DSA-Java/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/mYuvraj4118/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mYuvraj4118/DSA-Java/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/mYuvraj4118/DSA-Java/tree/master/0238-product-of-array-except-self) |
@@ -111,6 +112,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0069-sqrtx](https://github.com/mYuvraj4118/DSA-Java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mYuvraj4118/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/mYuvraj4118/DSA-Java/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/mYuvraj4118/DSA-Java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mYuvraj4118/DSA-Java/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0263-ugly-number) |
@@ -270,6 +272,7 @@ This repository is maintained for personal learning and interview preparation. S
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mYuvraj4118/DSA-Java/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/mYuvraj4118/DSA-Java/tree/master/0258-add-digits) |
 ## Memoization
 |  |
@@ -307,4 +310,20 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/mYuvraj4118/DSA-Java/tree/master/0292-nim-game) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mYuvraj4118/DSA-Java/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mYuvraj4118/DSA-Java/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mYuvraj4118/DSA-Java/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mYuvraj4118/DSA-Java/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
