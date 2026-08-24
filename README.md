@@ -290,6 +290,7 @@ This repository is maintained for personal learning and interview preparation. S
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/mYuvraj4118/DSA-Java/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/mYuvraj4118/DSA-Java/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mYuvraj4118/DSA-Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mYuvraj4118/DSA-Java/tree/master/0342-power-of-four) |
@@ -329,4 +330,8 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mYuvraj4118/DSA-Java/tree/master/0204-count-primes) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/mYuvraj4118/DSA-Java/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
