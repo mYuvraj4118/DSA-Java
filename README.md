@@ -78,6 +78,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0704-binary-search](https://github.com/mYuvraj4118/DSA-Java/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/mYuvraj4118/DSA-Java/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/mYuvraj4118/DSA-Java/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/mYuvraj4118/DSA-Java/tree/master/0875-koko-eating-bananas) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mYuvraj4118/DSA-Java/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mYuvraj4118/DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1991-find-the-middle-index-in-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/1991-find-the-middle-index-in-array) |
@@ -136,6 +137,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0374-guess-number-higher-or-lower](https://github.com/mYuvraj4118/DSA-Java/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/mYuvraj4118/DSA-Java/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/mYuvraj4118/DSA-Java/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/mYuvraj4118/DSA-Java/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mYuvraj4118/DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
