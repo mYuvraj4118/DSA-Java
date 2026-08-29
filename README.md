@@ -73,6 +73,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0268-missing-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mYuvraj4118/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mYuvraj4118/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/mYuvraj4118/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/mYuvraj4118/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/mYuvraj4118/DSA-Java/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/mYuvraj4118/DSA-Java/tree/master/0605-can-place-flowers) |
@@ -102,6 +103,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0347-top-k-frequent-elements](https://github.com/mYuvraj4118/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mYuvraj4118/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mYuvraj4118/DSA-Java/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/mYuvraj4118/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/mYuvraj4118/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/mYuvraj4118/DSA-Java/tree/master/0575-distribute-candies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mYuvraj4118/DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -231,6 +233,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0020-valid-parentheses](https://github.com/mYuvraj4118/DSA-Java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mYuvraj4118/DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mYuvraj4118/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0496-next-greater-element-i](https://github.com/mYuvraj4118/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mYuvraj4118/DSA-Java/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/mYuvraj4118/DSA-Java/tree/master/1021-remove-outermost-parentheses) |
 ## Interactive
@@ -268,6 +271,7 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mYuvraj4118/DSA-Java/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/mYuvraj4118/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mYuvraj4118/DSA-Java/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
