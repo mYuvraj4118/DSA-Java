@@ -238,6 +238,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0042-trapping-rain-water](https://github.com/mYuvraj4118/DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mYuvraj4118/DSA-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mYuvraj4118/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/mYuvraj4118/DSA-Java/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/mYuvraj4118/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mYuvraj4118/DSA-Java/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/mYuvraj4118/DSA-Java/tree/master/1021-remove-outermost-parentheses) |
@@ -360,4 +361,8 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mYuvraj4118/DSA-Java/tree/master/0084-largest-rectangle-in-histogram) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/mYuvraj4118/DSA-Java/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
