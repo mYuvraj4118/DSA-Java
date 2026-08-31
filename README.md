@@ -308,6 +308,7 @@ This repository is maintained for personal learning and interview preparation. S
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mYuvraj4118/DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/mYuvraj4118/DSA-Java/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/mYuvraj4118/DSA-Java/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mYuvraj4118/DSA-Java/tree/master/0326-power-of-three) |
@@ -351,6 +352,7 @@ This repository is maintained for personal learning and interview preparation. S
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mYuvraj4118/DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/mYuvraj4118/DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/mYuvraj4118/DSA-Java/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
