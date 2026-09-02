@@ -226,6 +226,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0680-valid-palindrome-ii](https://github.com/mYuvraj4118/DSA-Java/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mYuvraj4118/DSA-Java/tree/master/1021-remove-outermost-parentheses) |
+| [3174-clear-digits](https://github.com/mYuvraj4118/DSA-Java/tree/master/3174-clear-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -242,6 +243,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0496-next-greater-element-i](https://github.com/mYuvraj4118/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mYuvraj4118/DSA-Java/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/mYuvraj4118/DSA-Java/tree/master/1021-remove-outermost-parentheses) |
+| [3174-clear-digits](https://github.com/mYuvraj4118/DSA-Java/tree/master/3174-clear-digits) |
 ## Interactive
 |  |
 | ------- |
@@ -289,6 +291,7 @@ This repository is maintained for personal learning and interview preparation. S
 | ------- |
 | [0067-add-binary](https://github.com/mYuvraj4118/DSA-Java/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/mYuvraj4118/DSA-Java/tree/master/0258-add-digits) |
+| [3174-clear-digits](https://github.com/mYuvraj4118/DSA-Java/tree/master/3174-clear-digits) |
 ## Number Theory
 |  |
 | ------- |
