@@ -50,6 +50,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0001-two-sum](https://github.com/mYuvraj4118/DSA-Java/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mYuvraj4118/DSA-Java/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mYuvraj4118/DSA-Java/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/mYuvraj4118/DSA-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mYuvraj4118/DSA-Java/tree/master/0035-search-insert-position) |
@@ -151,6 +152,7 @@ This repository is maintained for personal learning and interview preparation. S
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mYuvraj4118/DSA-Java/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/mYuvraj4118/DSA-Java/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0169-majority-element) |
@@ -169,6 +171,7 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mYuvraj4118/DSA-Java/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/mYuvraj4118/DSA-Java/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mYuvraj4118/DSA-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0027-remove-element) |
