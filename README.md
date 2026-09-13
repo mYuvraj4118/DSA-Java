@@ -142,6 +142,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mYuvraj4118/DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/mYuvraj4118/DSA-Java/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/mYuvraj4118/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/mYuvraj4118/DSA-Java/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/mYuvraj4118/DSA-Java/tree/master/0441-arranging-coins) |
@@ -257,6 +258,7 @@ This repository is maintained for personal learning and interview preparation. S
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/mYuvraj4118/DSA-Java/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/mYuvraj4118/DSA-Java/tree/master/0374-guess-number-higher-or-lower) |
 ## Dynamic Programming
 |  |
