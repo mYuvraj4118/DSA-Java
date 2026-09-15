@@ -111,6 +111,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0496-next-greater-element-i](https://github.com/mYuvraj4118/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/mYuvraj4118/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/mYuvraj4118/DSA-Java/tree/master/0575-distribute-candies) |
+| [0981-time-based-key-value-store](https://github.com/mYuvraj4118/DSA-Java/tree/master/0981-time-based-key-value-store) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mYuvraj4118/DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
@@ -151,6 +152,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0441-arranging-coins](https://github.com/mYuvraj4118/DSA-Java/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/mYuvraj4118/DSA-Java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/mYuvraj4118/DSA-Java/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/mYuvraj4118/DSA-Java/tree/master/0981-time-based-key-value-store) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mYuvraj4118/DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
@@ -239,6 +241,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0389-find-the-difference](https://github.com/mYuvraj4118/DSA-Java/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/mYuvraj4118/DSA-Java/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0796-rotate-string) |
+| [0981-time-based-key-value-store](https://github.com/mYuvraj4118/DSA-Java/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/mYuvraj4118/DSA-Java/tree/master/1021-remove-outermost-parentheses) |
 | [3174-clear-digits](https://github.com/mYuvraj4118/DSA-Java/tree/master/3174-clear-digits) |
 ## String Matching
@@ -403,6 +406,7 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mYuvraj4118/DSA-Java/tree/master/0155-min-stack) |
+| [0981-time-based-key-value-store](https://github.com/mYuvraj4118/DSA-Java/tree/master/0981-time-based-key-value-store) |
 ## Merge Sort
 |  |
 | ------- |
