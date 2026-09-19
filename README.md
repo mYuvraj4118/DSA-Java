@@ -95,6 +95,7 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mYuvraj4118/DSA-Java/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mYuvraj4118/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/mYuvraj4118/DSA-Java/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/mYuvraj4118/DSA-Java/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/mYuvraj4118/DSA-Java/tree/master/0049-group-anagrams) |
@@ -230,6 +231,7 @@ This repository is maintained for personal learning and interview preparation. S
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mYuvraj4118/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/mYuvraj4118/DSA-Java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mYuvraj4118/DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mYuvraj4118/DSA-Java/tree/master/0020-valid-parentheses) |
@@ -418,4 +420,8 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mYuvraj4118/DSA-Java/tree/master/0023-merge-k-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mYuvraj4118/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
