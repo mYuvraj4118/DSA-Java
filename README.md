@@ -110,6 +110,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0347-top-k-frequent-elements](https://github.com/mYuvraj4118/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mYuvraj4118/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mYuvraj4118/DSA-Java/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/mYuvraj4118/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/mYuvraj4118/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/mYuvraj4118/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/mYuvraj4118/DSA-Java/tree/master/0575-distribute-candies) |
@@ -244,6 +245,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0242-valid-anagram](https://github.com/mYuvraj4118/DSA-Java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/mYuvraj4118/DSA-Java/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/mYuvraj4118/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/mYuvraj4118/DSA-Java/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/mYuvraj4118/DSA-Java/tree/master/0981-time-based-key-value-store) |
@@ -424,4 +426,5 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mYuvraj4118/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/mYuvraj4118/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
