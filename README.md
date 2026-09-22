@@ -263,6 +263,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0042-trapping-rain-water](https://github.com/mYuvraj4118/DSA-Java/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mYuvraj4118/DSA-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/mYuvraj4118/DSA-Java/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mYuvraj4118/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mYuvraj4118/DSA-Java/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/mYuvraj4118/DSA-Java/tree/master/0234-palindrome-linked-list) |
@@ -427,4 +428,16 @@ This repository is maintained for personal learning and interview preparation. S
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mYuvraj4118/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/mYuvraj4118/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
