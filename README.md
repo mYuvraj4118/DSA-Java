@@ -265,6 +265,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0094-binary-tree-inorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/mYuvraj4118/DSA-Java/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mYuvraj4118/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mYuvraj4118/DSA-Java/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/mYuvraj4118/DSA-Java/tree/master/0234-palindrome-linked-list) |
@@ -434,14 +435,17 @@ This repository is maintained for personal learning and interview preparation. S
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
