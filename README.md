@@ -87,6 +87,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0739-daily-temperatures](https://github.com/mYuvraj4118/DSA-Java/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/mYuvraj4118/DSA-Java/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/mYuvraj4118/DSA-Java/tree/master/0875-koko-eating-bananas) |
+| [1051-height-checker](https://github.com/mYuvraj4118/DSA-Java/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mYuvraj4118/DSA-Java/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mYuvraj4118/DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1991-find-the-middle-index-in-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/1991-find-the-middle-index-in-array) |
@@ -175,6 +176,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0349-intersection-of-two-arrays](https://github.com/mYuvraj4118/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mYuvraj4118/DSA-Java/tree/master/0389-find-the-difference) |
 | [0853-car-fleet](https://github.com/mYuvraj4118/DSA-Java/tree/master/0853-car-fleet) |
+| [1051-height-checker](https://github.com/mYuvraj4118/DSA-Java/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mYuvraj4118/DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
@@ -454,4 +456,12 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0102-binary-tree-level-order-traversal) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/mYuvraj4118/DSA-Java/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/mYuvraj4118/DSA-Java/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
