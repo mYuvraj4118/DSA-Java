@@ -272,6 +272,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0155-min-stack](https://github.com/mYuvraj4118/DSA-Java/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/mYuvraj4118/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/mYuvraj4118/DSA-Java/tree/master/0496-next-greater-element-i) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/mYuvraj4118/DSA-Java/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/mYuvraj4118/DSA-Java/tree/master/0853-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/mYuvraj4118/DSA-Java/tree/master/1021-remove-outermost-parentheses) |
@@ -441,6 +442,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0144-binary-tree-preorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0226-invert-binary-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -449,6 +451,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0144-binary-tree-preorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0226-invert-binary-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
