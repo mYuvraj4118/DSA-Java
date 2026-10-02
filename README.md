@@ -150,6 +150,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0074-search-a-2d-matrix](https://github.com/mYuvraj4118/DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mYuvraj4118/DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/mYuvraj4118/DSA-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/mYuvraj4118/DSA-Java/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/mYuvraj4118/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
@@ -207,6 +208,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0029-divide-two-integers](https://github.com/mYuvraj4118/DSA-Java/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/mYuvraj4118/DSA-Java/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/mYuvraj4118/DSA-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/mYuvraj4118/DSA-Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/mYuvraj4118/DSA-Java/tree/master/0342-power-of-four) |
@@ -441,6 +443,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0102-binary-tree-level-order-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/mYuvraj4118/DSA-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0226-invert-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -460,6 +463,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0102-binary-tree-level-order-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/mYuvraj4118/DSA-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
