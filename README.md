@@ -447,6 +447,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0222-count-complete-tree-nodes](https://github.com/mYuvraj4118/DSA-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mYuvraj4118/DSA-Java/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
@@ -458,6 +459,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0145-binary-tree-postorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mYuvraj4118/DSA-Java/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
@@ -471,6 +473,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0222-count-complete-tree-nodes](https://github.com/mYuvraj4118/DSA-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mYuvraj4118/DSA-Java/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -487,4 +490,8 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/mYuvraj4118/DSA-Java/tree/master/1051-height-checker) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
