@@ -90,6 +90,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [1051-height-checker](https://github.com/mYuvraj4118/DSA-Java/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mYuvraj4118/DSA-Java/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mYuvraj4118/DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1572-matrix-diagonal-sum](https://github.com/mYuvraj4118/DSA-Java/tree/master/1572-matrix-diagonal-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mYuvraj4118/DSA-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
@@ -325,6 +326,7 @@ This repository is maintained for personal learning and interview preparation. S
 | ------- |
 | [0036-valid-sudoku](https://github.com/mYuvraj4118/DSA-Java/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/mYuvraj4118/DSA-Java/tree/master/0074-search-a-2d-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/mYuvraj4118/DSA-Java/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
