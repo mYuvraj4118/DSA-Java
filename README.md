@@ -260,6 +260,7 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0796-rotate-string) |
 ## Stack
 |  |
@@ -451,6 +452,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0226-invert-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mYuvraj4118/DSA-Java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
@@ -464,6 +466,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0226-invert-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mYuvraj4118/DSA-Java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
@@ -479,6 +482,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0226-invert-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mYuvraj4118/DSA-Java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -499,4 +503,8 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
