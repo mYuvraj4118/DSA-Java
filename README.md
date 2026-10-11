@@ -454,6 +454,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0543-diameter-of-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -468,6 +469,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0543-diameter-of-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mYuvraj4118/DSA-Java/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -483,6 +485,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0404-sum-of-left-leaves](https://github.com/mYuvraj4118/DSA-Java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -491,6 +494,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0104-maximum-depth-of-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mYuvraj4118/DSA-Java/tree/master/0404-sum-of-left-leaves) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Counting Sort
 |  |
 | ------- |
