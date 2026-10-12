@@ -115,6 +115,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0424-longest-repeating-character-replacement](https://github.com/mYuvraj4118/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/mYuvraj4118/DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/mYuvraj4118/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/mYuvraj4118/DSA-Java/tree/master/0575-distribute-candies) |
 | [0981-time-based-key-value-store](https://github.com/mYuvraj4118/DSA-Java/tree/master/0981-time-based-key-value-store) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mYuvraj4118/DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -200,6 +201,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0234-palindrome-linked-list](https://github.com/mYuvraj4118/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mYuvraj4118/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/mYuvraj4118/DSA-Java/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/mYuvraj4118/DSA-Java/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mYuvraj4118/DSA-Java/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -251,6 +253,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0344-reverse-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/mYuvraj4118/DSA-Java/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/mYuvraj4118/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/mYuvraj4118/DSA-Java/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/mYuvraj4118/DSA-Java/tree/master/0981-time-based-key-value-store) |
@@ -438,6 +441,7 @@ This repository is maintained for personal learning and interview preparation. S
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mYuvraj4118/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/mYuvraj4118/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0567-permutation-in-string) |
 ## Tree
 |  |
 | ------- |
