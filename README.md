@@ -76,6 +76,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0229-majority-element-ii](https://github.com/mYuvraj4118/DSA-Java/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/mYuvraj4118/DSA-Java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/mYuvraj4118/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mYuvraj4118/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/mYuvraj4118/DSA-Java/tree/master/0496-next-greater-element-i) |
@@ -155,6 +156,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0222-count-complete-tree-nodes](https://github.com/mYuvraj4118/DSA-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/mYuvraj4118/DSA-Java/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mYuvraj4118/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/mYuvraj4118/DSA-Java/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/mYuvraj4118/DSA-Java/tree/master/0441-arranging-coins) |
@@ -199,6 +201,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mYuvraj4118/DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/mYuvraj4118/DSA-Java/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mYuvraj4118/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/mYuvraj4118/DSA-Java/tree/master/0567-permutation-in-string) |
@@ -214,6 +217,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0222-count-complete-tree-nodes](https://github.com/mYuvraj4118/DSA-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/mYuvraj4118/DSA-Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/mYuvraj4118/DSA-Java/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/mYuvraj4118/DSA-Java/tree/master/0389-find-the-difference) |
 ## Prefix Sum
@@ -419,6 +423,7 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mYuvraj4118/DSA-Java/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -515,4 +520,8 @@ This repository is maintained for personal learning and interview preparation. S
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/mYuvraj4118/DSA-Java/tree/master/0572-subtree-of-another-tree) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
