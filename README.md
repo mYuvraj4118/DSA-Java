@@ -103,6 +103,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0036-valid-sudoku](https://github.com/mYuvraj4118/DSA-Java/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/mYuvraj4118/DSA-Java/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/mYuvraj4118/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/mYuvraj4118/DSA-Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mYuvraj4118/DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/mYuvraj4118/DSA-Java/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0202-happy-number) |
@@ -413,6 +414,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0021-merge-two-sorted-lists](https://github.com/mYuvraj4118/DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/mYuvraj4118/DSA-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mYuvraj4118/DSA-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/mYuvraj4118/DSA-Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mYuvraj4118/DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/mYuvraj4118/DSA-Java/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/mYuvraj4118/DSA-Java/tree/master/0203-remove-linked-list-elements) |
