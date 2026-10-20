@@ -142,6 +142,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0292-nim-game](https://github.com/mYuvraj4118/DSA-Java/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/mYuvraj4118/DSA-Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mYuvraj4118/DSA-Java/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/mYuvraj4118/DSA-Java/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/mYuvraj4118/DSA-Java/tree/master/0441-arranging-coins) |
 | [2235-add-two-integers](https://github.com/mYuvraj4118/DSA-Java/tree/master/2235-add-two-integers) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mYuvraj4118/DSA-Java/tree/master/3783-mirror-distance-of-an-integer) |
@@ -159,6 +160,7 @@ This repository is maintained for personal learning and interview preparation. S
 | [0278-first-bad-version](https://github.com/mYuvraj4118/DSA-Java/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/mYuvraj4118/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mYuvraj4118/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/mYuvraj4118/DSA-Java/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/mYuvraj4118/DSA-Java/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/mYuvraj4118/DSA-Java/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/mYuvraj4118/DSA-Java/tree/master/0704-binary-search) |
